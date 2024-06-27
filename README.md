@@ -9,7 +9,7 @@ To deploy and interact with MyToken, follow these steps:
 
 Clone the Repository
 bash
-git clone https://github.com/mayank_5354/MyToken.git
+git clone [https://github.com/mayank_5354/MyToken.git](https://github.com/mayank5354/eth-proof-.sol/blob/eth/eth%20proof%20.sol)
 cd MyToken
 Install Dependencies
 Ensure you have Node.js and npm (Node Package Manager) installed.
